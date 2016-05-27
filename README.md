@@ -7,13 +7,21 @@ Repository parameters:
 
 	<repository>
 		<id>Github Imaginatio</id>
-		<url>https://github.com/Imaginatio/Maven-repository/raw/master</url>
+		<url>https://github.com/trevordboyer/Maven-repository/raw/master</url>
 	</repository>
 	
 
 Artifacts in this repository
 ----------------------------
 
+*	**createsend-java**   
+	Packaging of https://github.com/campaignmonitor/createsend-java
+	[MIT License](http://www.opensource.org/licenses/mit-license.php)
+
+		<groupId>com.createsend</groupId>
+		<artifactId>createsend-client</artifactId>
+		<version>6.0.0</version>
+		
 *	**solr-clustering**   
 	Maven-ifed packaging of http://download.carrot2.org/head/manual/index.html#section.solr   
 	[Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
