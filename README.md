@@ -15,10 +15,10 @@ Artifacts in this repository
 ----------------------------
 
 *	**gcm-server**   
-	Packaging of https://github.com/campaignmonitor/createsend-java
+	Packaging of https://github.com/google/gcm
 	[Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
 
-		<groupId>com.google.gcm</groupId>
+		<groupId>com.google.gcm-java</groupId>
 		<artifactId>gcm-server</artifactId>
 		<version>1.0.1</version>
 		
