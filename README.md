@@ -14,6 +14,14 @@ Repository parameters:
 Artifacts in this repository
 ----------------------------
 
+*	**gcm-server**   
+	Packaging of https://github.com/campaignmonitor/createsend-java
+	[Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
+
+		<groupId>com.google.gcm</groupId>
+		<artifactId>gcm-server</artifactId>
+		<version>1.0.1</version>
+		
 *	**createsend-java**   
 	Packaging of https://github.com/campaignmonitor/createsend-java
 	[MIT License](http://www.opensource.org/licenses/mit-license.php)
