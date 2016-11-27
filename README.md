@@ -14,6 +14,14 @@ Repository parameters:
 Artifacts in this repository
 ----------------------------
 
+*	**tineye-services**   
+	Packaging of https://github.com/TinEye/tineyeservices_java
+	[Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
+
+		<groupId>com.tineye.services</groupId>
+		<artifactId>tineye-services</artifactId>
+		<version>1.0.0</version>
+		
 *	**gcm-server**   
 	Packaging of https://github.com/google/gcm
 	[Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
